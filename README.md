@@ -1,6 +1,6 @@
 # JavaIPhone
 
-### School assignment using inheritance and polymorphism in Java to create a model of a base iPhone from which three models derive.
+### Just practice/review in Java using inheritance and polymorphism to create a model of a base iPhone from which three models derive.
 
 #### Funtions
 * Check battery
